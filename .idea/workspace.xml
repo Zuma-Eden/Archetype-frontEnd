@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90ae633b-ddb9-48c5-9581-af2aa21d907a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/bus/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/coder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/hljs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/languages/css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/languages/java.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/languages/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/languages/json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/languages/php.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/languages/scss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/languages/xml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/a11y-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/a11y-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/agate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/an-old-hope.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/androidstudio.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/arduino-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/arta.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/ascetic.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-cave-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-cave-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-dune-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-dune-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-estuary-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-estuary-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-forest-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-forest-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-heath-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-heath-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-lakeside-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-lakeside-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-plateau-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-plateau-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-savanna-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-savanna-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-seaside-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-seaside-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-sulphurpool-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atelier-sulphurpool-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atom-one-dark-reasonable.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atom-one-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/atom-one-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/brown-paper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/brown-papersq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/codepen-embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/color-brewer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/darcula.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/default.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/docco.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/dracula.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/far.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/foundation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/github-gist.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/github.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/gml.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/googlecode.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/gradient-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/gradient-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/grayscale.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/gruvbox-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/gruvbox-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/hopscotch.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/hybrid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/idea.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/ir-black.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/isbl-editor-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/isbl-editor-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/kimbie.dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/kimbie.light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/lightfair.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/lioshi.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/magula.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/mono-blue.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/monokai-sublime.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/monokai.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/night-owl.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/nnfx-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/nnfx.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/nord.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/obsidian.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/ocean.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/paraiso-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/paraiso-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/pojoaque.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/pojoaque.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/purebasic.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/qtcreator_dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/qtcreator_light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/railscasts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/rainbow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/routeros.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/school-book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/school-book.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/shades-of-purple.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/solarized-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/solarized-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/srcery.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/stackoverflow-dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/stackoverflow-light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/sunburst.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/tomorrow-night-blue.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/tomorrow-night-bright.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/tomorrow-night-eighties.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/tomorrow-night.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/tomorrow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/vs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/vs2015.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/xcode.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/xt256.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/coder/scss/zenburn.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/color/color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/color/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/dialogue/modal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/dialogue/modal/modal.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/field/comps/chars.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/field/comps/check.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/field/comps/items.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/field/comps/panel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/field/event.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/field/field.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/field/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/field/props.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/field/scss/border.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/field/scss/check.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/field/scss/hybrid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/field/scss/label.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/field/scss/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/field/scss/select.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/picker/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/picker/picker.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/selector/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/form/selector/selector.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/layout/grid-layout/grid-layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/layout/grid-layout/grid-layout.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/layout/grid-layout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/cellset/cellset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/cellset/cellset.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/cellset/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/excel/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/formset/formset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/formset/formset.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/formset/funcbar/funcbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/formset/funcbar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/formset/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/formset/listData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/formset/mixins/api.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/formset/mixins/devApi.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/formset/mixins/hotkey.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/formset/mixins/size.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/formset/tabular/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/formset/tabular/tabular.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/formset/tabular/tabular.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/formset/tips/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/pagination/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/pagination/pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/set/pagination/pagination.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/single/btn/comps/bump.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/single/btn/comps/flat.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/single/btn/comps/outlined.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/single/btn/comps/text.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/single/btn/comps/vanilla.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/single/btn/event.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/single/btn/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/single/btn/props.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/single/btn/scss/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/single/ico/ico.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/single/ico/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/single/imager/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/utils/divider/divider.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/utils/divider/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/utils/gap/gap.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/utils/gap/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/components/utils/tip/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/directive/addon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/directive/draggable/draggable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/directive/draggable/draggable.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/directive/draggable/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/directive/draggable/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/directive/inject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/directive/loading.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/directive/ripple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/directive/valid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/hint/hint.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/hint/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/http/baseURL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/http/headers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/http/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/http/interceptors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/lib/Export2Excel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/lib/iconStat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/lib/vue-resizable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/message/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/message/message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/preferences/hotkey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/progressbar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/progressbar/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/style/animation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/style/attribute/box.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/style/attribute/color.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/style/attribute/effect.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/style/attribute/flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/style/attribute/font.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/style/attribute/grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/style/attribute/variable.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/style/class/scrollbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/style/icon/ico.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/style/icon/mew-ico.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/style/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/style/reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/mew/style/tip.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/dev/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dev/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dev/src/views/Home.vue" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dev/src/views/Home.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/src/plugins/mew/http/baseURL.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dev" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dev/src/App.vue" />
+        <option value="$PROJECT_DIR$/dev/src/router/index.js" />
+        <option value="$PROJECT_DIR$/dev/src/main.js" />
+        <option value="$PROJECT_DIR$/dev/package.json" />
+        <option value="$PROJECT_DIR$/dev/src/plugins/mew/http/baseURL.js" />
+        <option value="$PROJECT_DIR$/dev/src/views/Home.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1395" />
+    <option name="width" value="2457" />
+    <option name="height" value="2124" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Test-FrontEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test-FrontEnd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test-FrontEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test-FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test-FrontEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test-FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test-FrontEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test-FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test-FrontEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test-FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="mew" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test-FrontEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test-FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="mew" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test-FrontEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test-FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test-FrontEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test-FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dev/src/plugins" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\GitHub\ZumaEden\Test-FrontEnd\dev\src\plugins" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90ae633b-ddb9-48c5-9581-af2aa21d907a" name="Default Changelist" comment="" />
+      <created>1624268404315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624268404315</updated>
+      <workItem from="1624268405613" duration="2337000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2337000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="930" y="0" width="1638" height="1416" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info x="1473" y="584" width="1009" height="679" id="Terminal" order="0" sideWeight="0.50110537" side_tool="true" type="FLOATING" weight="0.26966292" />
+      <window_info id="Database" order="1" sideWeight="0.50036633" side_tool="true" weight="0.09610083" />
+      <window_info id="Event Log" order="2" sideWeight="0.5003723" side_tool="true" weight="0.0961462" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.49889463" visible="true" weight="0.26966292" />
+      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
+      <window_info id="TODO" order="6" sideWeight="0.5003723" side_tool="true" weight="0.0961462" />
+      <window_info id="Version Control" order="7" sideWeight="0.5003723" side_tool="true" weight="0.0961462" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../Mew-T1/Mew-UI-Doc/dev/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/src/plugins/mew/bus/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Mew-T1/Mew-UI-Doc/dev/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" column="28" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/src/plugins/mew/http/baseURL.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/src/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
